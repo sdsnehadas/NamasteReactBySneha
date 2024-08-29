@@ -4,14 +4,14 @@
   "description": "this is react from scratch repo",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --public-url /react-from-scratch/",
+    "build": "parcel build index.html --public-url /NamasteReactBySneha/",
     "test": "jest",
     "predeploy": "npm run build",
      "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sdsnehadas/react-from-scratch.git"
+    "url": "git+https://github.com/sdsnehadas/NamasteReactBySneha.git"
   },
   "keywords": [
     "react"
@@ -19,9 +19,9 @@
   "author": "Sneha Das",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sdsnehadas/react-from-scratch/issues"
+    "url": "https://github.com/sdsnehadas/NamasteReactBySneha/issues"
   },
-  "homepage": "https://sdsnehadas.github.io/react-from-scratch/",
+  "homepage": "https://github.com/sdsnehadas/NamasteReactBySneha/",
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.25.4",
