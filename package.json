@@ -4,7 +4,7 @@
   "description": "this is react from scratch repo",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --public-url /NamasteReactBySneha/",
+    "build": "parcel build index.html",
     "test": "jest",
     "predeploy": "npm run build",
      "deploy": "gh-pages -d dist"
